@@ -1,0 +1,1 @@
+python script to convert cue file to utf8 so foobar2000 can decode the cue chars correctly
